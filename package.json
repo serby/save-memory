@@ -27,15 +27,15 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "event-stream": "^3.3.0",
-    "lodash": "^3.5.0",
-    "lodash.assign": "^3.0.0",
-    "mingo": "^0.3.2"
+    "event-stream": "^4.0.1",
+    "lodash": "^4.17.11",
+    "lodash.assign": "^4.2.0",
+    "mingo": "^2.3.5"
   },
   "devDependencies": {
-    "async": "^0.9.0",
-    "mocha": "^2.1.0",
-    "save": "^1.0.0",
-    "should": "^4.5.0"
+    "async": "^3.1.0",
+    "mocha": "^6.1.4",
+    "save": "^2.4.0",
+    "should": "^13.2.3"
   }
 }

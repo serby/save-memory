@@ -1,5 +1,7 @@
 # save-memory - Memory persistence engine for **save**
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/serby/save-memory.svg)](https://greenkeeper.io/)
+
 This is the default engine for [save](https://github.com/serby/save).
 
 ## Installation
